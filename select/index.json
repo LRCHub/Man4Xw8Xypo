@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Blackbird (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-03-01T01:35:40.308836Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blackbird - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Blackbird_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bye Bye Blackbird (Remastered)",
+      "artist": "Peggy Lee",
+      "has_synced": false,
+      "path": "select/02_Bye_Bye_Blackbird_(Remastered)_Peggy_Lee.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mexican Blackbird - Remastered Version",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/03_Mexican_Blackbird_-_Remastered_Version_ZZ_Top.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blackbird (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Blackbird_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mexican Blackbird [Remastered Album Version]",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/05_Mexican_Blackbird_[Remastered_Album_Version]_ZZ_Top.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blackbird (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_Blackbird_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blackbird (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Blackbird_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blackbird - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Blackbird_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bye Bye Blackbird (Remastered Version)",
+      "artist": "The Everly Brothers",
+      "has_synced": false,
+      "path": "select/09_Bye_Bye_Blackbird_(Remastered_Version)_The_Everly_Brothers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blackbird (Remastered)",
+      "artist": "Paul McCartney & Wings",
+      "has_synced": true,
+      "path": "select/10_Blackbird_(Remastered)_Paul_McCartney_&_Wings.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blackbird (Remastered 2009)",
+      "artist": "Beatles",
+      "has_synced": true,
+      "path": "select/11_Blackbird_(Remastered_2009)_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bye Bye Blackbird (Remastered)",
+      "artist": "Sammy Davis Jr.",
+      "has_synced": false,
+      "path": "select/12_Bye_Bye_Blackbird_(Remastered)_Sammy_Davis_Jr..txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blackbird (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Blackbird_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blackbird (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Blackbird_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blackbird - Remastered",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Blackbird_-_Remastered_The_Beatles.txt"
+    }
+  ]
+}
